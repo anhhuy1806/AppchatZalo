@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\.idea\\codeStyles",
+    "\\api",
+    "\\controller",
+    "\\model",
+    "\\public",
+    "\\routers",
+    "\\validateAuth",
+    "\\views"
+  ],
+  "SelectedNode": "\\index.js",
+  "PreviewInSolutionExplorer": false
+}
